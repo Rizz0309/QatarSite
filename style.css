@@ -59,7 +59,6 @@ hr{
 .imgcontainer .first-image{
     width:25%;
     height:400px;
-    background-color:red;
     background-image: url(images/sol.jpg);
     background-size: cover;
     
@@ -237,5 +236,9 @@ hr{
     background-color:rgb(122, 1, 45);
     border:none;
     flex-grow:1;
+}
+.date{
+    display:flex;
+    align-items: center;
 }
 
